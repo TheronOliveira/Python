@@ -1,2 +1,2 @@
 # Python-Exercicios
-Estudando a linguagem Python, área reservada para exercícios
+Criando uma calculadora e utilizando classe e métodos, sem interface gráfica
